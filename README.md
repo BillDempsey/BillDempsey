@@ -24,6 +24,6 @@ I'm a mechanical and manufacturing engineer based in Dublin, with a strong inter
 ## Get in Touch
 
 - **Email**: billdempsey90@gmail.com  
-- **LinkedIn**: [linkedin.com/in/billdempsey][https://tinyurl.com/4snukf7n]
+- **LinkedIn**: [https://tinyurl.com/4snukf7n]
 
 Feel free to explore the repositories, and don’t hesitate to reach out if you're interested in collaboration or discussion.
