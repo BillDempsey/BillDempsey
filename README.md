@@ -8,7 +8,7 @@ I'm a mechanical and manufacturing engineer based in Dublin, with a strong inter
   Scripts and apps developed during my time at iSentioLabs for high-volume sensor data analysis and workflow automation (no proprietary content included!).
 
 - **Master’s Thesis Work**  
-  Bits and pieces from my MSc project on force measurement in grinding processes.
+  Bits and pieces from my MAI project on force measurement in grinding processes.
 
 - **Home Engineering Projects**  
   - A Fantasy Premier League assistant app  
