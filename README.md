@@ -1,29 +1,25 @@
 # Hi, I'm Bill Dempsey
 
-I'm a mechanical and manufacturing engineer based in Dublin, with a strong interest in data analysis, embedded systems, and hands-on problem solving. My work blends technical depth in simulation and hardware design with real-world applications ranging from sensor analytics to practical DIY projects.
-
-This GitHub is a place where I share a mix of professional and personal work, including:
+I'm a mechanical and manufacturing engineer based in Dublin, with a strong interest in data analysis, and hands-on problem solving. This GitHub is a place where I share a mix of professional and personal work, including:
 
 ## What You'll Find Here
 
 - **Data Analysis Tools**  
-  Scripts and workflows developed during my time at iSentioLabs for high-volume sensor analysis, workflow automation, and rapid prototyping (non-proprietary content only).
+  Scripts and apps developed during my time at iSentioLabs for high-volume sensor data analysis, workflow automation, and rapid prototyping (no proprietary content included!).
 
 - **Master’s Thesis Work**  
-  Code and analysis from my MSc project on force measurement in grinding processes, including FEA simulations and physical testing data.
+  Bits and pieces from my MSc project on force measurement in grinding processes.
 
 - **Home Engineering Projects**  
-  - A data-driven Fantasy Premier League assistant app  
-  - 3D printer repair, upgrades, and performance tuning  
-  - Practical electronics, repairs, and automation for household tools and systems
+  - A Fantasy Premier League assistant app  
+  - Repairs and DIY work at home
 
 ## Core Skills & Interests
 
 - **Programming**: Python, MATLAB, C++, Arduino  
-- **CAD/FEA**: SolidWorks, ANSYS  
-- **Data & Analysis**: Pandas, NumPy, MATLAB, Excel (VBA)  
-- **Hardware & Tech**: 3D printing, embedded systems, electronics  
-- **Approach**: Practical, design-focused, data-informed
+- **CAD/FEA**: SolidWorks, ANSYS, AutoCAD 
+- **Data & Analysis**: Python, MATLAB, C++, Excel (VBA)  
+- **Hardware & Tech**: 3D printing, embedded systems, electronics, CNC machining  
 
 ## Get in Touch
 
