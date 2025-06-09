@@ -5,7 +5,7 @@ I'm a mechanical and manufacturing engineer based in Dublin, with a strong inter
 ## What You'll Find Here
 
 - **Data Analysis Tools**  
-  Scripts and apps developed during my time at iSentioLabs for high-volume sensor data analysis, workflow automation, and rapid prototyping (no proprietary content included!).
+  Scripts and apps developed during my time at iSentioLabs for high-volume sensor data analysis and workflow automation (no proprietary content included!).
 
 - **Master’s Thesis Work**  
   Bits and pieces from my MSc project on force measurement in grinding processes.
