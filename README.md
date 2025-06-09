@@ -12,7 +12,7 @@ I'm a mechanical and manufacturing engineer based in Dublin, with a strong inter
 
 - **Home Engineering Projects**  
   - A Fantasy Premier League assistant app  
-  - Repairs and DIY work at home
+  - Miscellaneous Repairs and DIY work at home
 
 ## Core Skills & Interests
 
