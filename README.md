@@ -1,6 +1,6 @@
 # Hi, I'm Bill Dempsey
 
-I'm a mechanical and manufacturing engineer based in Dublin, with a strong interest in data analysis and hands-on problem solving. I share a mix of professional and personal work here, including:
+I'm a mechanical and manufacturing engineer based in Dublin, with a strong interest in hands-on problem solving. I share a mix of professional and personal work here, including:
 
 ## What You'll Find Here
 
