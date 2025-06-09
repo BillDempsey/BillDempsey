@@ -4,7 +4,7 @@ I'm a mechanical and manufacturing engineer based in Dublin, with a strong inter
 
 This GitHub is a place where I share a mix of professional and personal work, including:
 
-## 🔍 What You'll Find Here
+## What You'll Find Here
 
 - **Data Analysis Tools**  
   Scripts and workflows developed during my time at iSentioLabs for high-volume sensor analysis, workflow automation, and rapid prototyping (non-proprietary content only).
@@ -17,7 +17,7 @@ This GitHub is a place where I share a mix of professional and personal work, in
   - 3D printer repair, upgrades, and performance tuning  
   - Practical electronics, repairs, and automation for household tools and systems
 
-## 🛠️ Core Skills & Interests
+## Core Skills & Interests
 
 - **Programming**: Python, MATLAB, C++, Arduino  
 - **CAD/FEA**: SolidWorks, ANSYS  
@@ -25,9 +25,9 @@ This GitHub is a place where I share a mix of professional and personal work, in
 - **Hardware & Tech**: 3D printing, embedded systems, electronics  
 - **Approach**: Practical, design-focused, data-informed
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **Email**: billdempsey90@gmail.com  
-- **LinkedIn**: [linkedin.com/in/billdempsey](http://bit.ly/3QgRkpv)
+- **LinkedIn**: [linkedin.com/in/billdempsey][https://tinyurl.com/4snukf7n]
 
 Feel free to explore the repositories, and don’t hesitate to reach out if you're interested in collaboration or discussion.
